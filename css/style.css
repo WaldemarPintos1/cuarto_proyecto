@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    margin: 0 auto;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    padding: 10px;
+}
+.caja{
+    display: inline-block;
+    font-size: 30px;
+    height: 200px;
+    width: 250px;
+    text-align: center;
+    padding: 50px;
+    margin: 50px;
+
+}
+#id2{
+    border: 10px dotted rgb(202, 170, 170);
+}
+#id3{
+    border: 10px dashed rgb(202, 170, 170);
+}
+#id4{
+    border: 10px solid rgb(202, 170, 170);
+}
+#id5{
+    border: 10px double rgb(202, 170, 170);
+}
+#id6{
+    border: 10px groove rgb(202, 170, 170);
+}
+#id7{
+    border: 10px ridge rgb(202, 170, 170);
+}
+#id8{
+    border: 10px inset rgb(202, 170, 170);
+}
+#id9{
+    border: 10px outset rgb(202, 170, 170);
+}
